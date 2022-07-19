@@ -4,11 +4,10 @@
  * @array: pointer to the array to be sorted
  * @size: size of the array
  * Return: nothing
- * 
  */
 void counting_sort(int *array, size_t size)
 {
-    int n, j, *count, *tmp;
+	int n, j, *count, *tmp;
 	size_t i;
 
 	if (!array || size < 2)
