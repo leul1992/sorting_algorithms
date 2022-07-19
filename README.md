@@ -1,2 +1,1 @@
-Sorting Algorithm and Big O
-	-Bubble Sort
+Sorting algorithm Leul and Lidya
