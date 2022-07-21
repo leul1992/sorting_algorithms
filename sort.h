@@ -31,7 +31,7 @@ void cocktail_sort_list(listint_t **list);
 int partition(int *array, int left, int right, size_t size);
 void quick_recursion(int *array, int left, int right, size_t size);
 void insertion_sort_list(listint_t **list);
-
+void swaping(int *array, int item1, int item2);
 void swap(int *array, ssize_t item1, ssize_t item2);
 void merge_sort(int *array, size_t size);
 void merge_recursion(int *arr, int *array, size_t left, size_t right);
